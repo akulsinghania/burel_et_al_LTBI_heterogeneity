@@ -1,5 +1,5 @@
 
-## Master R script for:
+## Master R and Python scripts for:
 
 ### Changes in the Blood Transcriptome Following Treatment Reflect Latent Tuberculosis Heterogeneity
 
